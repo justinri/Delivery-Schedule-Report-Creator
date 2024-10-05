@@ -1,0 +1,3 @@
+Group by planner code (for now you’ll have to filter them)
+Include customer name
+Probably add better formatting, highlight important orders perhaps? Thoughts?
